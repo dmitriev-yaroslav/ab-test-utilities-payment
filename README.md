@@ -58,3 +58,20 @@ Z-статистика равна 6.39, p-значение меньше 0.001, �
 ## Стек
 
 Python, pandas, numpy, scipy.stats, matplotlib, seaborn.
+
+## Запуск
+
+Установите зависимости:
+
+```
+pip install -r requirements.txt
+```
+
+Откройте ноутбук:
+
+```
+jupyter notebook ab_test_analysis.ipynb
+```
+
+Ноутбук также можно открыть в Google Colab, загрузив его через
+интерфейс платформы.
